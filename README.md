@@ -30,3 +30,6 @@ Example
 ```
 $ curl -X POST --data-binary @MARKDOWNFILE http://localhost:8000/text
 ```
+
+# NB: there is already a converter for mARkdown texts to html in the openiti python library: 
+https://github.com/OpenITI/openiti/blob/master/new_books/convert/md2html.py
