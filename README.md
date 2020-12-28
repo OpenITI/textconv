@@ -36,3 +36,5 @@ $ curl -X POST --data-binary @MARKDOWNFILE http://localhost:8000/text
 This API currently only provides an endpoint for mARkdown to plain text transformation, and other converters will be added later. Here is a list of other mARkdown converters we have already worked on:
 
 * [mARkdown to HTML](https://github.com/OpenITI/openiti/blob/master/new_books/convert/md2html.py)
+
+Published under a GNU AGPL 3.0 License.
